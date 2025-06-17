@@ -8,8 +8,13 @@ function Project() {
       title: 'E-commerce React',
       description: 'Carrito, login, filtro por categorías y diseño responsivo.',
       image: banner,
+<<<<<<< Updated upstream
       demo: 'https://mi-ecommerce-two. veracel.app/.com',
       repo: 'https://github.com/damiana/ecommerce-react'
+=======
+      demo: 'https://mi-ecommerce-two.veracel.app.com',
+      repo: 'https://github.com/damiana/ecommerce-react',
+>>>>>>> Stashed changes
     }
     // Podés agregar más proyectos
   ];
